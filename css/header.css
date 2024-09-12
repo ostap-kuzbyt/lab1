@@ -1,0 +1,41 @@
+header {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+a {
+	text-decoration: none;
+}
+
+.header_button {
+	color: #b8becd;
+}
+
+.header_button:hover {
+	color: black;
+}
+
+.active_button {
+	color: black;
+}
+
+.header_nav ul {
+	display: flex;
+	list-style-type: none;
+	gap: 20px;
+}
+
+.button_login {
+	color: orange;
+	border: 2px solid orange;
+	border-radius: 5px;
+	padding: 8px 25px;
+}
+
+.button_register {
+	color: white;
+	background-color: orange;
+	border-radius: 5px;
+	padding: 8px 25px;
+}

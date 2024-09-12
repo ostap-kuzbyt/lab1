@@ -1,0 +1,22 @@
+.sc_page {
+	display: flex;
+	background-color: #f8f8f8;
+	padding: 0 85px;
+}
+
+.sc_right {
+	display: flex;
+	flex-wrap: wrap;
+	align-content: center;
+	padding-left: 40px;
+}
+
+.button_learn_more {
+	margin-top: 17px;
+}
+
+.sc_paragraph {
+	width: 350px;
+	color: #7d7987;
+	font-size: 15px;
+}
